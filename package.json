@@ -1,0 +1,24 @@
+{
+  "name": "good_readme_generator",
+  "version": "1.0.0",
+  "description": "Generator designed to produce a  properly formatted README",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codehawkeye/Good_README_Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codehawkeye/Good_README_Generator/issues"
+  },
+  "homepage": "https://github.com/codehawkeye/Good_README_Generator#readme",
+  "dependencies": {
+    "badmath": "^1.0.1",
+    "inquirer": "^7.3.3"
+  }
+}
