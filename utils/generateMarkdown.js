@@ -39,9 +39,9 @@ This project allows users to generate readme files for their application. It use
 ​
 To install necessary dependencies, run the following command:
 ​
-```
+ 
 // npm i
-```
+ 
 ​
 ## Usage
 ​${data.usage}
@@ -59,9 +59,9 @@ users cannot contribute to this repo
 ​​${data.test}
 To run tests, run the following command:
 ​
-```
+ 
 // npm test
-```
+ 
 ​
 ## Questions
 ​

@@ -63,12 +63,12 @@ const questions = [
 
     },
 ];
-const generateHTML = (answers) =>
+// const generateHTML = (answers) =>
 
 
 // TODO: Create a function to write README file
     function writeToFile(fileName, data) {
-        writeToFile(fileName, data, err => {
+         fs.writeFileSync(fileName, data, err => {
             if (err)throw err;              
         });
 }
